@@ -93,3 +93,5 @@ int main() {
 
     // Effectuer des opérations sur les comptes bancaires
     compte
+    return 0;
+}
